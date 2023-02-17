@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreqramos&label=Profile%20views&color=0e75b6&style=flat" alt="andreqramos" /> </p>
 
-- 🔭 I’m currently working on [Investidor de Sucesso](https://investidordesucesso.com.br/)
+- 🔭 I’m currently working as Data Engineer on [Stefanini](https://stefanini.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/andreqramos](https://github.com/andreqramos)
 
